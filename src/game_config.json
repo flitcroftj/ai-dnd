@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "name": "Elara",
+            "player_class": "Wizard",
+            "race": "High Elf",
+            "level": 1,
+            "background": "Sage",
+            "alignment": "Neutral Good",
+            "size": "Medium",
+            "faith": "Elven Diety",
+            "age": 70,
+            "personality_traits": "Knowledgeable, Approachable, Patient",
+            "flaws": "Naive, Overthinker, Shy",
+            "description": "Elara is a young, knowledgeable Elf wizard with long silver hair and sleek blue eyes. Despite her intellect, she is approachable and patient, eager to share her wisdom with others as she learns the fundamentals of magic.",
+            "type": "AI"
+        },
+        {
+            "name": "Garret",
+            "player_class": "Fighter",
+            "race": "Hill Dwarf",
+            "level": 1,
+            "background": "Soldier",
+            "alignment": "Chaotic Good",
+            "size": "Medium",
+            "faith": "Dwarven Pantheon",
+            "age": 65,
+            "personality_traits": "Courageous, Loyal, Humorous",
+            "flaws": "Stubborn, Impatient, Distrustful of Magic",
+            "description": "Garret is a rugged and dependable Dwarf fighter with a solid, muscular build, a thick red beard, and battle scars. Despite his gruff exterior, he has a heart of gold, a quick wit, and enjoys the simple pleasures of life.",
+            "type": "AI"
+        },
+        {
+            "name": "Jimette bob Jr",
+            "player_class": "Druid",
+            "race": "Wood Elf",
+            "level": 1,
+            "background": "Sage",
+            "alignment": "Neutral Good",
+            "size": "Medium",
+            "faith": "Elven Diety",
+            "age": 1529,
+            "personality_traits": "Humourous, Kind, Intelligent",
+            "flaws": "Hangry, Impatient, Messy",
+            "description": "Jimette bob Jr. is a middle aged midget elf druid. She gets easily tired after casting too many spells. While she is funny and intelligent, she easily gets angry when hungry, is quite impatient and messy. In her free time she speaks to the animals and is on good terms with animal species. She has pastel pink hair and freckles, and sparkling white teeth.",
+            "type": "Human"
+        }
+    ],
+    "dm": {
+        "campaign": "The Lost Mine of Phandelver"
+    }
+}
